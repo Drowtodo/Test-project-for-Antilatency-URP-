@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: eda4b19e7edc8294280baa957f79ade9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ManHead
+    100004: ManLArmDigit11
+    100006: ManLArmDigit12
+    100008: ManLArmDigit13
+    100010: ManLArmDigit21
+    100012: ManLArmDigit22
+    100014: ManLArmDigit23
+    100016: ManLArmDigit31
+    100018: ManLArmDigit32
+    100020: ManLArmDigit33
+    100022: ManLArmDigit41
+    100024: ManLArmDigit42
+    100026: ManLArmDigit43
+    100028: ManLArmDigit51
+    100030: ManLArmDigit52
+    100032: ManLArmDigit53
+    100034: ManLCalf
+    100036: ManLCollarbone
+    100038: ManLFoot
+    100040: ManLForearm
+    100042: ManLLegDigit11
+    100044: ManLLegDigit12
+    100046: ManLPalm
+    100048: ManLThigh
+    100050: ManLUpperarm
+    100052: ManNeck1
+    100054: ManNeck2
+    100056: ManPelvis
+    100058: ManRArmDigit11
+    100060: ManRArmDigit12
+    100062: ManRArmDigit13
+    100064: ManRArmDigit21
+    100066: ManRArmDigit22
+    100068: ManRArmDigit23
+    100070: ManRArmDigit31
+    100072: ManRArmDigit32
+    100074: ManRArmDigit33
+    100076: ManRArmDigit41
+    100078: ManRArmDigit42
+    100080: ManRArmDigit43
+    100082: ManRArmDigit51
+    100084: ManRArmDigit52
+    100086: ManRArmDigit53
+    100088: ManRCalf
+    100090: ManRCollarbone
+    100092: ManRFoot
+    100094: ManRForearm
+    100096: ManRibcage
+    100098: ManRLegDigit11
+    100100: ManRLegDigit12
+    100102: ManRPalm
+    100104: ManRThigh
+    100106: ManRUpperarm
+    100108: ManSpine1
+    100110: ManSpine2
+    100112: ManSpine3
+    100114: ManSpine4
+    100116: ManSpine5
+    100118: ManTransform
+    400000: //RootNode
+    400002: ManHead
+    400004: ManLArmDigit11
+    400006: ManLArmDigit12
+    400008: ManLArmDigit13
+    400010: ManLArmDigit21
+    400012: ManLArmDigit22
+    400014: ManLArmDigit23
+    400016: ManLArmDigit31
+    400018: ManLArmDigit32
+    400020: ManLArmDigit33
+    400022: ManLArmDigit41
+    400024: ManLArmDigit42
+    400026: ManLArmDigit43
+    400028: ManLArmDigit51
+    400030: ManLArmDigit52
+    400032: ManLArmDigit53
+    400034: ManLCalf
+    400036: ManLCollarbone
+    400038: ManLFoot
+    400040: ManLForearm
+    400042: ManLLegDigit11
+    400044: ManLLegDigit12
+    400046: ManLPalm
+    400048: ManLThigh
+    400050: ManLUpperarm
+    400052: ManNeck1
+    400054: ManNeck2
+    400056: ManPelvis
+    400058: ManRArmDigit11
+    400060: ManRArmDigit12
+    400062: ManRArmDigit13
+    400064: ManRArmDigit21
+    400066: ManRArmDigit22
+    400068: ManRArmDigit23
+    400070: ManRArmDigit31
+    400072: ManRArmDigit32
+    400074: ManRArmDigit33
+    400076: ManRArmDigit41
+    400078: ManRArmDigit42
+    400080: ManRArmDigit43
+    400082: ManRArmDigit51
+    400084: ManRArmDigit52
+    400086: ManRArmDigit53
+    400088: ManRCalf
+    400090: ManRCollarbone
+    400092: ManRFoot
+    400094: ManRForearm
+    400096: ManRibcage
+    400098: ManRLegDigit11
+    400100: ManRLegDigit12
+    400102: ManRPalm
+    400104: ManRThigh
+    400106: ManRUpperarm
+    400108: ManSpine1
+    400110: ManSpine2
+    400112: ManSpine3
+    400114: ManSpine4
+    400116: ManSpine5
+    400118: ManTransform
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
